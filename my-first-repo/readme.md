@@ -12,6 +12,6 @@ Interests
 
 1. Rstudio
 2. Bash script
-3. Proposal writin
+3. Proposal writing
 
 Here is just for your interest [GO!](https://zyvtwedding.weebly.com/).
