@@ -1,0 +1,3 @@
+Just a note to test out some activities.
+Trying to save on nano
+Adding third line through echo
